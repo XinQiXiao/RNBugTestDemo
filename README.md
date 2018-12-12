@@ -19,3 +19,8 @@
 
 			2.完善个推功能
 				a. Login 页面 获取 clientId
+
+			3. 问题解决
+				查看个推官网 
+					http://docs.getui.com/getui/mobile/ios/xcode/
+				按3.7 步骤操作，打包发现不在出现闪退，疑似解决奔溃问题。
