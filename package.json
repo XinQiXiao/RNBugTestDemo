@@ -8,10 +8,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "lodash": "^4.17.11",
     "prop-types": "^15.5.10",
     "react": "16.0.0",
     "react-native": "0.50.4",
-    "react-native-baidu-map": "^0.6.0",
     "react-native-getui": "^1.1.7",
     "react-native-router-flux": "^3.43.0",
     "react-timer-mixin": "^0.13.3"

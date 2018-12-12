@@ -23,6 +23,9 @@ DerivedData
 project.xcworkspace
 ._*
 
+# privacy
+ios/TestApp/configPrd.h
+
 # Android/IntelliJ
 #
 build/

@@ -13,8 +13,6 @@ import LoginContainer from './login/LoginContainer'
 import FirstContainer from './home/FirstContainer'
 // second
 import SecondContainer from './home/SecondContainer'
-// map
-import MapContainer from './home/MapContainer'
 
 // const 
 const reducerCreate = params => {
@@ -108,7 +106,6 @@ class MainComponent extends Component{
 						<Scene key='login' initial component={LoginContainer}/>
 						<Scene key='first' component={FirstContainer}/>
 						<Scene key='second' component={SecondContainer}/>
-						<Scene key='map' component={MapContainer}/>
 					</Scene>
 				</Scene>
 			</Router>
